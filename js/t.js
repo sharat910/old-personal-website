@@ -1,5 +1,5 @@
 // Selecting the container element
-var el = document.querySelector('.t');
+var el = document.querySelector('.s');
 
 // All the possible options (these are the default values)
 // Remember that every option (except individualDelays) can be defined as single value or array

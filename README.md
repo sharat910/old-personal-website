@@ -1,2 +1,2 @@
-# mittaltushant.github.io
-Personal webpage of Tushant Mittal
+# sharat910.github.io
+Personal webpage of Sharat Chandra Madanapalli
