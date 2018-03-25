@@ -374,6 +374,24 @@ main {
       text-align: left;
       width: auto; } }
 
+.icons-large {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 4px 9px 0;
+  text-align: right;
+  width: 96px; }
+  @media only screen and (max-width: 700px) {
+    .icons-large {
+      margin: 7px 0 0;
+      -webkit-box-ordinal-group: 3;
+          -ms-flex-order: 2;
+              order: 2;
+      text-align: left;
+      width: auto; } }
+
 .date {
   font-size: 10px;
   font-weight: 400;
